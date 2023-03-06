@@ -1,12 +1,14 @@
 # ChatGPT-API Vercel
 
-![](assets/screenshot.png)
+## 感谢ourongxing/chatgpt-vercel对 diu8081/chatgpt-demo进行功能上的增强。在此基础上，我们进行了界面定制和改进，得到最终版： [fangling123/chatgpt0307](https://github.com/fangling123/chatgpt0307)。
 
-感谢ourongxing/chatgpt-vercel对 diu8081/chatgpt-demo进行功能上的增强。在此基础上，我们进行了界面定制和改进，得到最终版： [fangling123/chatgpt0307](https://github.com/fangling123/chatgpt0307)。
+## 预览: [https://nwzz.world](https://nwzz.world)
 
-预览: [https://nwzz.world](https://nwzz.world)
+## 学习交流、经验分享、指导答疑，加vx: sophie_sheng1122
 
-学习交流、经验分享、指导答疑，加vx: sophie_sheng1122
+
+![](assets/screenshot1.png)
+
 
 
 

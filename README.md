@@ -19,7 +19,7 @@
 
 如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 Vercel 域名已经被墙，所以你需要绑定自己的域名才行。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ourongxing/chatgpt-vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/fangling123/chatgpt0307)
 
 如果你需要部署给更多人用，那么你可能需要将上面创建的你自己的仓库 `git clone` 到本地。
 
